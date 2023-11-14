@@ -8,7 +8,8 @@ Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
   * [Tipos de aprendizaje automático](definiciones/DF_03_ML_tipos.ipynb)
 
 * **Estadística**
-  * [Estadística definción](estadistica/ST_01_Estadistica_definicion.ipynb)
+  * [Estadística definición](estadistica/ST_01_Estadistica_definicion.ipynb)
+  * [Población vs muestra](estadistica/ST_02_Poblacion_muestra.ipynb)
 
 ## Exportar notebook a HTML
 
