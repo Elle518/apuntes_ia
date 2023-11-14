@@ -1,14 +1,18 @@
-# Apuntes inteligencia artificial en español
+# Apuntes de inteligencia artificial en español
 
 Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
 
 * **Conceptos básicos**
-   - [Datos vs información vs conocimiento](definiciones/DF_01_Datos_vs_informacion.ipynb)
-   - [Ciencia de datos, aprendizaje automático y aprendizaje profundo](definiciones/DF_02_DS_ML_DL.ipynb)
+  * [Datos vs información vs conocimiento](definiciones/DF_01_Datos_vs_informacion.ipynb)
+  * [Ciencia de datos, aprendizaje automático y aprendizaje profundo](definiciones/DF_02_DS_ML_DL.ipynb)
+  * [Tipos de aprendizaje automático](definiciones/DF_03_ML_tipos.ipynb)
+
+* **Estadística**
+  * [Estadística definción](estadistica/ST_01_Estadistica_definicion.ipynb)
 
 ## Exportar notebook a HTML
 
-```
+```bash
 jupyter nbconvert --to html --TagRemovePreprocessor.remove_input_tags remove-input file_name.ipynb
 ```
 
