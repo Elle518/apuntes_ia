@@ -5,11 +5,12 @@ Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
 * **Conceptos básicos**
   * [Datos vs información vs conocimiento](definiciones/DF_01_Datos_vs_informacion.ipynb)
   * [Ciencia de datos, aprendizaje automático y aprendizaje profundo](definiciones/DF_02_DS_ML_DL.ipynb)
-  * [Tipos de aprendizaje automático](definiciones/DF_03_ML_tipos.ipynb)
+  * [Tipos de aprendizaje automático](definiciones/DF_03_ML_types.ipynb)
 
 * **Estadística**
   * [Estadística definición](estadistica/ST_01_Estadistica_definicion.ipynb)
   * [Población vs muestra](estadistica/ST_02_Poblacion_muestra.ipynb)
+  * [Variables definición](estadistica/ST_03_Variables_definicion_tipos.ipynb)
 
 ## Exportar notebook a HTML
 
