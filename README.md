@@ -13,6 +13,7 @@ Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
   * [Variables definición](estadistica/ST_03_Variables_definicion_tipos.ipynb)
   * [Paradoja de Simpson](estadistica/ST_04_Paradoja_Simpson.ipynb)
   * [Tipos de datos](estadistica/ST_05_Tipos_datos.ipynb)
+  * [Escalas de medida](estadistica/ST_06_Escalas_medida.ipynb)
 
 ## Exportar notebook a HTML
 
