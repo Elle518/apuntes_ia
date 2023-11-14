@@ -12,6 +12,7 @@ Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
   * [Población vs muestra](estadistica/ST_02_Poblacion_muestra.ipynb)
   * [Variables definición](estadistica/ST_03_Variables_definicion_tipos.ipynb)
   * [Paradoja de Simpson](estadistica/ST_04_Paradoja_Simpson.ipynb)
+  * [Tipos de datos](estadistica/ST_05_Tipos_datos.ipynb)
 
 ## Exportar notebook a HTML
 
