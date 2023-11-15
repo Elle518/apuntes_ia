@@ -15,6 +15,7 @@ Recopilatorio de apuntes sobre conceptos de inteligencia artificial.
   * [Tipos de datos](estadistica/ST_05_Tipos_datos.ipynb)
   * [Escalas de medida](estadistica/ST_06_Escalas_medida.ipynb)
   * [Frecuencias absoluta, relativa y acumulada](estadistica/ST_07_Frecuencias_absolutas_relativas_acumuladas.ipynb)
+  * [Ley de los grandes números](estadistica/ST_08_Ley_grandes_numeros.ipynb)
 
 ## Exportar notebook a HTML
 
